@@ -1,0 +1,81 @@
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="style1.css">
+        <title>B.F.F
+        </title>
+    </head>
+    <body>
+        <div class="container">
+            <header>
+                <h1>This Page Is To Know About MY BFF's</h1><br>
+            </header>
+            <aside>
+                <h2>Dialy Routine Of My Friends</h2>
+                <br>
+                <ul>
+                    <li>Wake up early in the morning.</li>
+                    <li>yoga</li>
+                    <li>Fresh UP</li>
+                    <li>Helping Parents In House Works</li>
+                    <li>Break Fast</li>
+                    <li>going to acting classes</li>
+                    <li>instagram reels</li>
+                    <li>chatting with friedns If Possible</li>
+                    <li>Back To Home</li>
+                    <li>Spending Time With Family</li>
+                    <li>Helping Parents In House Works</li>
+                    <li>dancing</li>
+                    <li>Dinner and Finally Sleep</li>
+                </ul>
+            </aside>
+            <main>
+                <img src="https://www.pexels.com/photo/silhouette-of-people-jumping-935835/ "alt="FRIENDSHIP">
+            </main>
+            <footer>
+                <form>
+                    <fieldset>
+                        <legend>My FRIENDS Personal INFO</legend><br>
+                        <table>
+                            <tr>
+                                <th>Name</th>
+                                <th>D.O.B</th>
+                                <th>Fav Sport</th>
+                                <th>Fav Food</th>
+                                <th>Fav Country</th>
+                                <th>Fav Hero</th>
+                                <th>Hobbie</th>
+                            </tr>
+                            <tr>
+                                <td>pinky</td>
+                                <td>24-03-2004</td>
+                                <td>kho kho</td>
+                                <td>Chicken</td>
+                                <td>India</td>
+                                <td><img src="https://mobcup.net/wallpaper/allu-arjun-army-upy8vois "alt="stylish star"></td>
+                                <td>Dancing</td>
+                            </tr>
+                            <tr>
+                                <td>harika</td>
+                                <td>29-01-2003</td>
+                                <td>kabaddi</td>
+                                <td>mutton</td>
+                                <td>India</td>
+                                <td><img src=https://in.pinterest.com/inway0860/nani/ alt="natural Start"></td>
+                                <td>painting</td>
+                            </tr>
+                            <tr>
+                                <td>niharika</td>
+                                <td>14-05-2001</td>
+                                <td>Badminton</td>
+                                <td>non veg</td>
+                                <td>India</td>
+                                <td><img src="https://www.peakpx.com/en/search?q=vijay "alt="trending Start"></td>
+                                <td>Watching Movies</td>
+                            </tr>
+                        </table>
+                    </fieldset>
+                </form>
+            </footer>
+        </div>
+    </body>
+</html>
